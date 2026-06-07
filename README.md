@@ -76,6 +76,8 @@ Apri una [issue](https://github.com/hidran/claude-code-book-snippets/issues) con
 
 ---
 
+📋 **[PUBLISHING.md](PUBLISHING.md)** — titoli, sottotitoli, descrizioni HTML, keywords e categorie KDP per le edizioni IT / ES / EN
+
 *© 2026 Hidran Arias — [hidran.com](https://github.com/hidran)*
 
 <!-- keywords: claude code, anthropic, ai coding, prompt engineering, spec driven development, agents, CLAUDE.md, skills, NestJS, React, AWS, CloudFormation, ECS, vibe coding, agentic coding, coding con AI, intelligenza artificiale -->
