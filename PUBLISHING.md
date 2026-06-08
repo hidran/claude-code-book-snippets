@@ -202,6 +202,57 @@ vibe coding práctico
 guía anthropic claude
 ```
 
+## Biografía del autor (Amazon Author Central ES)
+
+```
+Hidran Arias es ingeniero de software, arquitecto de software y formador
+técnico senior con más de veinte años de experiencia en el desarrollo de
+aplicaciones web, diseño de software y formación profesional. Especializado
+en PHP, Laravel, Angular, Java, Spring Boot y arquitecturas enterprise
+modernas, trabaja aplicando diariamente los principios SOLID, KISS y las
+mejores prácticas de clean code y arquitectura de software.
+
+A lo largo de su carrera ha formado a miles de estudiantes a través de
+cursos online, talleres técnicos y contenidos educativos dedicados a la
+programación, arquitecturas backend y frontend, bases de datos y tecnologías
+modernas de desarrollo.
+
+Políglota apasionado por los idiomas y la tecnología, habla español, italiano,
+inglés, francés, portugués y alemán. Nacido en Cuba y residente en Turín,
+combina una sólida experiencia práctica en desarrollo de software con una
+gran pasión por la enseñanza, con el objetivo de hacer accesibles incluso
+los conceptos más complejos a través de explicaciones claras, concretas y
+orientadas al mundo real.
+```
+
+## Descripción paperback — contraportada (texto plano, ~200 palabras)
+
+```
+¿Instalaste Claude Code. Y ahora qué?
+
+Este libro te lleva desde el primer npm install hasta el deploy en AWS de
+una aplicación full-stack real. Sin trucos dispersos, sin prompts mágicos:
+un workflow profesional y repetible que puedes aplicar a tu próximo proyecto
+desde mañana mismo.
+
+Escrito por un desarrollador después de un año de uso diario de Claude Code
+en decenas de proyectos reales — desde el pequeño script Python que genera
+informes Excel, hasta el deploy en AWS de una app de fotogalería con
+autenticación, batch processing en S3 y panel de administración.
+
+Qué aprenderás:
+• Instalar y configurar Claude Code, elegir el modelo correcto para cada tarea
+• Escribir prompts que funcionan a la primera: los 5 errores a evitar
+• Analizar CSV, generar informes Excel profesionales, construir dashboards web
+• Extender Claude con CLAUDE.md, comandos personalizados, skills y agents
+• Desarrollar una app full-stack con Spec Driven Development
+• Code review multi-LLM con Claude, Gemini, Codex y Kimi
+• Deploy en AWS con CloudFormation: ECS, RDS, S3, CloudFront
+
+~390 páginas. Código companion en GitHub.
+Actualizaciones gratuitas para propietarios del eBook.
+```
+
 ## Precio sugerido
 
 | Formato | Precio | Royalty estimada |
